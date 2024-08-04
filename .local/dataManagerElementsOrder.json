@@ -1,0 +1,40 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Time&Sequence_3",
+        "password&Sequence_3",
+        "email&Sequence_3",
+        "NewsTime2&Sequence_3",
+        "NewsTime1&Sequence_3",
+        "latestNewsTime&Sequence_3",
+        "ExtractDataTable&Sequence_1",
+        "topic&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "temp.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "getHours&Sequence_2",
+        "ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
